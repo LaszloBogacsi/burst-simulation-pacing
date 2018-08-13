@@ -1,0 +1,10 @@
+{
+  "simulation": "com.itv.atsdcf.perf.BurstSimulation",
+  "simulationId": "burstsimulation",
+  "start": 1534151640044,
+  "description": "",
+  "scenarios": ["BurstJourneySimulation", "AmendBookSimulation", "NotificationReadSimulation"],
+  "assertions": [
+
+  ]
+}
